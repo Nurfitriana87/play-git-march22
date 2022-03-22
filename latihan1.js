@@ -70,3 +70,5 @@ let j = 2;
 let k = 10;
 
 //
+
+console.log(g, h, i);
