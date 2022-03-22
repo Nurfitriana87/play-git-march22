@@ -9,3 +9,6 @@ fuction tambahan() {
 }
 
 tambahan()
+
+let f = false
+let t = true
